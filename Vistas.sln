@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vistas", "Vistas\Vistas\Vistas.csproj", "{33822672-CB0F-4D54-B51F-F85945444AF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vistas.Client", "Vistas\Vistas.Client\Vistas.Client.csproj", "{24583BB6-CB77-4295-A9E6-B72712C53DEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33822672-CB0F-4D54-B51F-F85945444AF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33822672-CB0F-4D54-B51F-F85945444AF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33822672-CB0F-4D54-B51F-F85945444AF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33822672-CB0F-4D54-B51F-F85945444AF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24583BB6-CB77-4295-A9E6-B72712C53DEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24583BB6-CB77-4295-A9E6-B72712C53DEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24583BB6-CB77-4295-A9E6-B72712C53DEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24583BB6-CB77-4295-A9E6-B72712C53DEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD0F0217-B3F1-4051-8E67-BC6FF34A074C}
+	EndGlobalSection
+EndGlobal
